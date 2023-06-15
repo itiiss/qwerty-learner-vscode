@@ -1,6 +1,6 @@
 import { VoiceType } from './../../typings/index'
 import { getConfig } from '../../utils'
-import { romajiToHiragana } from '@/utils/kana'
+import { romajiToHiragana } from '../../utils/kana'
 interface NativeModule {
   playerPlay(voiceUrl: string, callback: () => void): void
 }
@@ -35,7 +35,7 @@ if (!(NATIVE && NATIVE.playerPlay)) {
 const pronunciationApi = 'https://dict.youdao.com/dictvoice?audio='
 
 const generateWordSoundSrc = (word: string) => {
-  const pronunciation = getConfig('pronounces') as VoiceType
+  const pronunciation = getConfig('voiceType') as VoiceType
   switch (pronunciation) {
     case 'uk':
       return `${pronunciationApi}${word}&type=1`
