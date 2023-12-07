@@ -1,0 +1,1322 @@
+[
+    {
+        "name": "atsuraeru",
+        "trans": [
+            "to give an order, to place an order--誂える"
+        ]
+    },
+    {
+        "name": "tsuiyasu",
+        "trans": [
+            "to spend, to devote, to waste--費やす"
+        ]
+    },
+    {
+        "name": "magotsuku",
+        "trans": [
+            "to be confused, to be flustered--まごつく"
+        ]
+    },
+    {
+        "name": "tsukurou",
+        "trans": [
+            "to mend, to repair, to fix, to patch up, to darn, to tidy up, to adjust, to trim--繕う"
+        ]
+    },
+    {
+        "name": "hokorobiru",
+        "trans": [
+            "to come apart at the seams, to begin to open, to smile broadly--綻びる"
+        ]
+    },
+    {
+        "name": "tsukasadoru",
+        "trans": [
+            "to rule, to govern, to administer--司る"
+        ]
+    },
+    {
+        "name": "kakageru",
+        "trans": [
+            "to publish, to print, to carry (an article), to put up, to hang out, to hoist, to fly (a sail), to float (a--掲げる"
+        ]
+    },
+    {
+        "name": "tojiru",
+        "trans": [
+            "to bind, to file--綴じる"
+        ]
+    },
+    {
+        "name": "chiratto",
+        "trans": [
+            "at a glance, by accident--ちらっと"
+        ]
+    },
+    {
+        "name": "kuchiru",
+        "trans": [
+            "to rot--朽ちる"
+        ]
+    },
+    {
+        "name": "tsukaeru",
+        "trans": [
+            "to serve, to work for--仕える"
+        ]
+    },
+    {
+        "name": "ataisuru",
+        "trans": [
+            "to be worth, to deserve, to merit--値する"
+        ]
+    },
+    {
+        "name": "tsutsushimu",
+        "trans": [
+            "to be careful, to be chaste or discreet, to abstain or refrain--慎む"
+        ]
+    },
+    {
+        "name": "kujibiki",
+        "trans": [
+            "lottery, drawn lot--籤引"
+        ]
+    },
+    {
+        "name": "arakajime",
+        "trans": [
+            "beforehand, in advance, previously--予め"
+        ]
+    },
+    {
+        "name": "somuku",
+        "trans": [
+            "to run counter to, to go against, to disobey, to infringe--背く"
+        ]
+    },
+    {
+        "name": "shimobe",
+        "trans": [
+            "manservant, servant (of God)--僕"
+        ]
+    },
+    {
+        "name": "kechi",
+        "trans": [
+            "stinginess, miser, miserliness, skinflint, tightwad, niggard, pinching pennies--吝嗇"
+        ]
+    },
+    {
+        "name": "boyaku",
+        "trans": [
+            "to grumble, to complain--ぼやく"
+        ]
+    },
+    {
+        "name": "tagui",
+        "trans": [
+            "a kind--類"
+        ]
+    },
+    {
+        "name": "nodoka",
+        "trans": [
+            "tranquil, calm, quiet--長閑"
+        ]
+    },
+    {
+        "name": "akarasama",
+        "trans": [
+            "obvious, overt, plainly, frankly--明白"
+        ]
+    },
+    {
+        "name": "toku",
+        "trans": [
+            "to explain, to advocate, to preach, to persuade--説く"
+        ]
+    },
+    {
+        "name": "komoru",
+        "trans": [
+            "to seclude oneself, to be confined in, to be implied, to be stuffy--篭る"
+        ]
+    },
+    {
+        "name": "orosoka",
+        "trans": [
+            "neglect, negligence, carelessness--疎か"
+        ]
+    },
+    {
+        "name": "hodokosu",
+        "trans": [
+            "to donate, to give, to conduct, to apply, to perform--施す"
+        ]
+    },
+    {
+        "name": "toboshii",
+        "trans": [
+            "meagre, scarce, limited, destitute, hard up, scanty, poor--乏しい"
+        ]
+    },
+    {
+        "name": "tatematsuru",
+        "trans": [
+            "to offer, to present, to revere, to do respectfully--奉る"
+        ]
+    },
+    {
+        "name": "manukareru",
+        "trans": [
+            "to escape from, to be rescued from, to avoid, to evade, to avert, to elude, to be exempted, to be relieved--免れる"
+        ]
+    },
+    {
+        "name": "utsuro",
+        "trans": [
+            "blank, cavity, hollow, empty (space)--空ろ"
+        ]
+    },
+    {
+        "name": "torokeru",
+        "trans": [
+            "to be enchanted with--蕩ける"
+        ]
+    },
+    {
+        "name": "shizuku",
+        "trans": [
+            "drop (of water)--雫"
+        ]
+    },
+    {
+        "name": "motarasu",
+        "trans": [
+            "to bring, to take, to bring about--齎らす"
+        ]
+    },
+    {
+        "name": "habamu",
+        "trans": [
+            "to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart--阻む"
+        ]
+    },
+    {
+        "name": "tsunoru",
+        "trans": [
+            "to invite, to solicit help participation etc--募る"
+        ]
+    },
+    {
+        "name": "unagasu",
+        "trans": [
+            "to urge, to press, to suggest, to demand, to stimulate, to quicken, to incite, to invite (attention to)--促す"
+        ]
+    },
+    {
+        "name": "todokooru",
+        "trans": [
+            "to stagnate, to be delayed--滞る"
+        ]
+    },
+    {
+        "name": "hareru",
+        "trans": [
+            "to swell (from inflammation), to become swollen--腫れる"
+        ]
+    },
+    {
+        "name": "matataki",
+        "trans": [
+            "wink, twinkling (of stars), flicker (of light)--瞬き"
+        ]
+    },
+    {
+        "name": "najiru",
+        "trans": [
+            "to rebuke, to scold, to tell off--詰る"
+        ]
+    },
+    {
+        "name": "kigane",
+        "trans": [
+            "hesitance, diffidence, feeling constraint, fear of troubling someone, having scruples about doing someth--気兼ね"
+        ]
+    },
+    {
+        "name": "kojireru",
+        "trans": [
+            "to get complicated, to grow worse--拗れる"
+        ]
+    },
+    {
+        "name": "nijimu",
+        "trans": [
+            "to run, to blur, to spread, to blot, to ooze--滲む"
+        ]
+    },
+    {
+        "name": "wazurawashii",
+        "trans": [
+            "troublesome, annoying, complicated--煩わしい"
+        ]
+    },
+    {
+        "name": "hotori",
+        "trans": [
+            "(in the) neighbourhood, vicinity, nearby--辺り"
+        ]
+    },
+    {
+        "name": "nedaru",
+        "trans": [
+            "to tease, to coax, to solicit, to demand--強請る"
+        ]
+    },
+    {
+        "name": "toriwake",
+        "trans": [
+            "especially, above all--取り分"
+        ]
+    },
+    {
+        "name": "sawaru",
+        "trans": [
+            "to hinder, to interfere with, to affect, to do one harm, to be harmful to--障る"
+        ]
+    },
+    {
+        "name": "akashi",
+        "trans": [
+            "proof, evidence--証"
+        ]
+    },
+    {
+        "name": "sakaeru",
+        "trans": [
+            "to prosper, to flourish--栄える"
+        ]
+    },
+    {
+        "name": "koriru",
+        "trans": [
+            "to learn by experience, to be disgusted with--懲りる"
+        ]
+    },
+    {
+        "name": "hitasura",
+        "trans": [
+            "earnestly--一向"
+        ]
+    },
+    {
+        "name": "tamau",
+        "trans": [
+            "to receive, to grant--給う"
+        ]
+    },
+    {
+        "name": "toge",
+        "trans": [
+            "thorn, splinter, spine, biting words--刺"
+        ]
+    },
+    {
+        "name": "toriwake",
+        "trans": [
+            "especially, above all--副"
+        ]
+    },
+    {
+        "name": "tsuneru",
+        "trans": [
+            "to pinch--抓る"
+        ]
+    },
+    {
+        "name": "houmuru",
+        "trans": [
+            "to bury, to inter, to entomb, to consign to oblivion, to shelve--葬る"
+        ]
+    },
+    {
+        "name": "sazukeru",
+        "trans": [
+            "to grant, to award, to teach--授ける"
+        ]
+    },
+    {
+        "name": "asamashii",
+        "trans": [
+            "wretched, miserable, shameful, mean, despicable, abject--浅ましい"
+        ]
+    },
+    {
+        "name": "sabaku",
+        "trans": [
+            "to judge--裁く"
+        ]
+    },
+    {
+        "name": "ikisatsu",
+        "trans": [
+            "1. details, whole story, sequence of events, particulars, how it started, how things got this way, 2. c--経緯"
+        ]
+    },
+    {
+        "name": "hazumu",
+        "trans": [
+            "to spring, to bound, to bounce, to be stimulated, to be encouraged, to get lively, to treat oneself to, to--弾む"
+        ]
+    },
+    {
+        "name": "shikitari",
+        "trans": [
+            "customs--為来り"
+        ]
+    },
+    {
+        "name": "shikujiru",
+        "trans": [
+            "to fail, to fall through, to blunder--しくじる"
+        ]
+    },
+    {
+        "name": "fusawashii",
+        "trans": [
+            "appropriate--相応しい"
+        ]
+    },
+    {
+        "name": "shinabiru",
+        "trans": [
+            "to wilt, to fade--萎びる"
+        ]
+    },
+    {
+        "name": "yumi",
+        "trans": [
+            "bow (and arrow)--弓"
+        ]
+    },
+    {
+        "name": "hitasu",
+        "trans": [
+            "to soak, to dip, to drench--浸す"
+        ]
+    },
+    {
+        "name": "tonaeru",
+        "trans": [
+            "to recite, to chant, to call upon--唱える"
+        ]
+    },
+    {
+        "name": "ogosoka",
+        "trans": [
+            "austere, majestic, dignified, stately, awful, impressive--厳か"
+        ]
+    },
+    {
+        "name": "shirusu",
+        "trans": [
+            "to note, to write down--記す"
+        ]
+    },
+    {
+        "name": "mogaku",
+        "trans": [
+            "to struggle, to wriggle, to be impatient--藻掻く"
+        ]
+    },
+    {
+        "name": "sekasu",
+        "trans": [
+            "to hurry, to urge on--急かす"
+        ]
+    },
+    {
+        "name": "tazusawaru",
+        "trans": [
+            "to participate, to take part--携わる"
+        ]
+    },
+    {
+        "name": "katagi",
+        "trans": [
+            "spirit, character, trait, temperament, disposition--気質"
+        ]
+    },
+    {
+        "name": "tamawaru",
+        "trans": [
+            "to grant, to bestow--賜る"
+        ]
+    },
+    {
+        "name": "nameraka",
+        "trans": [
+            "smoothness, glassiness--滑らか"
+        ]
+    },
+    {
+        "name": "nameru",
+        "trans": [
+            "to lick, to taste, to experience, to make fun of, to make light of, to put down, to treat with contempt--嘗める"
+        ]
+    },
+    {
+        "name": "saezuru",
+        "trans": [
+            "to sing, to chirp, to twitter--囀る"
+        ]
+    },
+    {
+        "name": "shitau",
+        "trans": [
+            "to yearn for, to miss, to adore, to love dearly--慕う"
+        ]
+    },
+    {
+        "name": "ayatsuru",
+        "trans": [
+            "to manipulate, to operate, to pull strings--操る"
+        ]
+    },
+    {
+        "name": "kataki",
+        "trans": [
+            "enemy, rival--敵"
+        ]
+    },
+    {
+        "name": "makanau",
+        "trans": [
+            "to give board to, to provide meals, to pay--賄う"
+        ]
+    },
+    {
+        "name": "kenasu",
+        "trans": [
+            "to speak ill of--貶す"
+        ]
+    },
+    {
+        "name": "togameru",
+        "trans": [
+            "to blame, to find fault, to take someone to task, to aggravate (an injury)--咎める"
+        ]
+    },
+    {
+        "name": "nonoshiru",
+        "trans": [
+            "to speak ill of, to abuse--罵る"
+        ]
+    },
+    {
+        "name": "isso",
+        "trans": [
+            "rather, sooner, might as well--いっそ"
+        ]
+    },
+    {
+        "name": "shibutoi",
+        "trans": [
+            "tenacious, stubborn--しぶとい"
+        ]
+    },
+    {
+        "name": "numa",
+        "trans": [
+            "swamp, bog, pond, lake--沼"
+        ]
+    },
+    {
+        "name": "narashi",
+        "trans": [
+            "equilibrium, balance, average, mean--平均"
+        ]
+    },
+    {
+        "name": "hyotto",
+        "trans": [
+            "possibly, accidentally--ひょっと"
+        ]
+    },
+    {
+        "name": "itoma",
+        "trans": [
+            "free time, leisure, leave, spare time, farewell--暇"
+        ]
+    },
+    {
+        "name": "majiwaru",
+        "trans": [
+            "to cross, to intersect, to associate with, to mingle with, to interest, to join--交わる"
+        ]
+    },
+    {
+        "name": "odateru",
+        "trans": [
+            "to stir up, to instigate, to flatter--煽てる"
+        ]
+    },
+    {
+        "name": "saku",
+        "trans": [
+            "fence, paling--柵"
+        ]
+    },
+    {
+        "name": "takumashii",
+        "trans": [
+            "burly, strong, sturdy--逞しい"
+        ]
+    },
+    {
+        "name": "tsukanoma",
+        "trans": [
+            "moment, brief time, brief, transient--束の間"
+        ]
+    },
+    {
+        "name": "kusuguttai",
+        "trans": [
+            "ticklish--擽ぐったい"
+        ]
+    },
+    {
+        "name": "yami",
+        "trans": [
+            "darkness, the dark, black-marketeering, dark, shady, illegal--闇"
+        ]
+    },
+    {
+        "name": "tadoritsuku",
+        "trans": [
+            "to grope along to, to struggle on to, to arrive somewhere after a struggle--辿り着く"
+        ]
+    },
+    {
+        "name": "haishaku",
+        "trans": [
+            "borrowing--拝借"
+        ]
+    },
+    {
+        "name": "uruou",
+        "trans": [
+            "to be moist, to be damp, to get wet, to profit by, to be watered, to receive benefits, to favor, to charm, t--潤う"
+        ]
+    },
+    {
+        "name": "kutsugaesu",
+        "trans": [
+            "to overturn, to upset, to overthrow, to undermine--覆す"
+        ]
+    },
+    {
+        "name": "hikiiru",
+        "trans": [
+            "to lead, to spearhead (a group), to command (troops)--率いる"
+        ]
+    },
+    {
+        "name": "takumi",
+        "trans": [
+            "skill, cleverness--巧み"
+        ]
+    },
+    {
+        "name": "ikusa",
+        "trans": [
+            "war, battle, campaign, fight--軍"
+        ]
+    },
+    {
+        "name": "kunizakai",
+        "trans": [
+            "national or state border--国境"
+        ]
+    },
+    {
+        "name": "hata",
+        "trans": [
+            "loom--機"
+        ]
+    },
+    {
+        "name": "suso",
+        "trans": [
+            "(trouser) cuff, (skirt) hem, cut edge of a hairdo, foot of mountain--裾"
+        ]
+    },
+    {
+        "name": "sobieru",
+        "trans": [
+            "to rise, to tower, to soar--聳える"
+        ]
+    },
+    {
+        "name": "ikusa",
+        "trans": [
+            "war, battle, campaign, fight--戦"
+        ]
+    },
+    {
+        "name": "darui",
+        "trans": [
+            "sluggish, feel heavy, languid, dull--怠い"
+        ]
+    },
+    {
+        "name": "shocchuu",
+        "trans": [
+            "always, constantly--しょっちゅう"
+        ]
+    },
+    {
+        "name": "sarau",
+        "trans": [
+            "to carry off, to run away with, to kidnap, to abduct--拐う"
+        ]
+    },
+    {
+        "name": "ikazuchi",
+        "trans": [
+            "thunder--雷"
+        ]
+    },
+    {
+        "name": "fumi",
+        "trans": [
+            "letter, writings--文"
+        ]
+    },
+    {
+        "name": "hiiteha",
+        "trans": [
+            "not only...but also, in addition to, consequently--延いては"
+        ]
+    },
+    {
+        "name": "itawaru",
+        "trans": [
+            "to pity, to sympathize with, to console, to care for, to be kind to--労る"
+        ]
+    },
+    {
+        "name": "namaru",
+        "trans": [
+            "to become less capable, to grow dull, to become blunt, to weaken--鈍る"
+        ]
+    },
+    {
+        "name": "tadoru",
+        "trans": [
+            "to follow (road), to pursue (course), to follow up--辿る"
+        ]
+    },
+    {
+        "name": "houken",
+        "trans": [
+            "feudalistic--封建"
+        ]
+    },
+    {
+        "name": "hisoka",
+        "trans": [
+            "secret, private, surreptitious--密か"
+        ]
+    },
+    {
+        "name": "sakazuki",
+        "trans": [
+            "wine cups--杯"
+        ]
+    },
+    {
+        "name": "saku",
+        "trans": [
+            "plan, policy--策"
+        ]
+    },
+    {
+        "name": "kakato",
+        "trans": [
+            "(shoe) heel--踵"
+        ]
+    },
+    {
+        "name": "buchi",
+        "trans": [
+            "spots, speckles, mottles--斑"
+        ]
+    },
+    {
+        "name": "kudan",
+        "trans": [
+            "example, precedent, the usual, the said, the above-mentioned, (man) in question--件"
+        ]
+    },
+    {
+        "name": "sokonau",
+        "trans": [
+            "to harm, to hurt, to injure, to damage, to fail in doing--損なう"
+        ]
+    },
+    {
+        "name": "saku",
+        "trans": [
+            "a work, a harvest--作"
+        ]
+    },
+    {
+        "name": "nagoyaka",
+        "trans": [
+            "mild, calm, gentle, quiet, harmonious--和やか"
+        ]
+    },
+    {
+        "name": "chou",
+        "trans": [
+            "government office--庁"
+        ]
+    },
+    {
+        "name": "tsuku",
+        "trans": [
+            "1. to breathe, 2. to tell (lies), 3. to vomit, to disgorge--吐く"
+        ]
+    },
+    {
+        "name": "tobira",
+        "trans": [
+            "door, opening--扉"
+        ]
+    },
+    {
+        "name": "kiwamete",
+        "trans": [
+            "exceedingly, extremely--極めて"
+        ]
+    },
+    {
+        "name": "tsubuyaku",
+        "trans": [
+            "to mutter, to murmur--呟く"
+        ]
+    },
+    {
+        "name": "nageku",
+        "trans": [
+            "to sigh, to lament, to grieve--嘆く"
+        ]
+    },
+    {
+        "name": "subashikoi",
+        "trans": [
+            "nimble, smart, quick--すばしこい"
+        ]
+    },
+    {
+        "name": "igamu",
+        "trans": [
+            "to warp, to swerve, to deflect, to be crooked, to be distorted, to be bent, to incline, to slant, to be perv--歪む"
+        ]
+    },
+    {
+        "name": "susugu",
+        "trans": [
+            "to rinse, to wash out--濯ぐ"
+        ]
+    },
+    {
+        "name": "koyomi",
+        "trans": [
+            "calendar, almanac--暦"
+        ]
+    },
+    {
+        "name": "chou",
+        "trans": [
+            "super-, ultra-, hyper---超"
+        ]
+    },
+    {
+        "name": "yawarageru",
+        "trans": [
+            "to soften, to moderate, to relieve--和らげる"
+        ]
+    },
+    {
+        "name": "shingari",
+        "trans": [
+            "rear, rear unit guard--殿"
+        ]
+    },
+    {
+        "name": "aka",
+        "trans": [
+            "suborder, subfamily--亜科"
+        ]
+    },
+    {
+        "name": "azamuku",
+        "trans": [
+            "to deceive--欺く"
+        ]
+    },
+    {
+        "name": "obitadashii",
+        "trans": [
+            "abundantly, innumerably--夥しい"
+        ]
+    },
+    {
+        "name": "akiudo",
+        "trans": [
+            "trader, shopkeeper, merchant--商人"
+        ]
+    },
+    {
+        "name": "sana",
+        "trans": [
+            "truth, reality--真実"
+        ]
+    },
+    {
+        "name": "kuguru",
+        "trans": [
+            "1. to drive, to pass through, 2. to evade, to hide, 3. to dive (into or under water), to go undergro--潜る"
+        ]
+    },
+    {
+        "name": "katawara",
+        "trans": [
+            "beside(s), while, nearby--傍ら"
+        ]
+    },
+    {
+        "name": "akagane",
+        "trans": [
+            "copper--銅"
+        ]
+    },
+    {
+        "name": "houwa",
+        "trans": [
+            "saturation--飽和"
+        ]
+    },
+    {
+        "name": "kishimu",
+        "trans": [
+            "to jar, to creak, to grate--軋む"
+        ]
+    },
+    {
+        "name": "nikayou",
+        "trans": [
+            "to resemble closely--似通う"
+        ]
+    },
+    {
+        "name": "saeru",
+        "trans": [
+            "to be clear, to be serene, to be cold, to be skillful--冴える"
+        ]
+    },
+    {
+        "name": "tsumamu",
+        "trans": [
+            "to pinch, to hold, to pick up--摘む"
+        ]
+    },
+    {
+        "name": "tameshi",
+        "trans": [
+            "instance, example, case, precedent, experience, custom, usage, parallel, illustration--例"
+        ]
+    },
+    {
+        "name": "kotatsu",
+        "trans": [
+            "table with heater, (orig) charcoal brazier in a floor well--火燵"
+        ]
+    },
+    {
+        "name": "katsu",
+        "trans": [
+            "divide, cut, halve, separate, split, rip, break, crack, smash, dilute--割"
+        ]
+    },
+    {
+        "name": "komu",
+        "trans": [
+            "to be crowded--混む"
+        ]
+    },
+    {
+        "name": "sutareru",
+        "trans": [
+            "to go out of use, to become obsolete, to die out, to go out of fashion--廃れる"
+        ]
+    },
+    {
+        "name": "katsu",
+        "trans": [
+            "yet, and--且つ"
+        ]
+    },
+    {
+        "name": "aka",
+        "trans": [
+            "dirt, filth--垢"
+        ]
+    },
+    {
+        "name": "kimagure",
+        "trans": [
+            "whim, caprice, whimsy, fickle, moody, uneven temper--気まぐれ"
+        ]
+    },
+    {
+        "name": "hajiku",
+        "trans": [
+            "to flip, to snap--弾く"
+        ]
+    },
+    {
+        "name": "togireru",
+        "trans": [
+            "to pause, to be interrupted--跡切れる"
+        ]
+    },
+    {
+        "name": "tsuburu",
+        "trans": [
+            "to close the eyes--瞑る"
+        ]
+    },
+    {
+        "name": "kawasu",
+        "trans": [
+            "to exchange (messages), to dodge, to parry, to avoid, to turn aside--交わす"
+        ]
+    },
+    {
+        "name": "hayari",
+        "trans": [
+            "fashionable, fad, in vogue, prevailing--流行"
+        ]
+    },
+    {
+        "name": "kitaru",
+        "trans": [
+            "to come, to arrive, to be due to, to be next, to be forthcoming--来る"
+        ]
+    },
+    {
+        "name": "kasumu",
+        "trans": [
+            "to grow hazy, to be misty--霞む"
+        ]
+    },
+    {
+        "name": "hayasu",
+        "trans": [
+            "to grow, to cultivate, to wear beard--生やす"
+        ]
+    },
+    {
+        "name": "kasuka",
+        "trans": [
+            "faint, dim, weak, indistinct, hazy, poor, wretched--微か"
+        ]
+    },
+    {
+        "name": "konagona",
+        "trans": [
+            "in very small pieces--粉々"
+        ]
+    },
+    {
+        "name": "yashiro",
+        "trans": [
+            "Shinto shrine--社"
+        ]
+    },
+    {
+        "name": "kedamono",
+        "trans": [
+            "beast, brute--獣"
+        ]
+    },
+    {
+        "name": "yakamashii",
+        "trans": [
+            "noisy, strict, fussy--喧しい"
+        ]
+    },
+    {
+        "name": "kukkiri",
+        "trans": [
+            "distinctly, clearly, boldly--くっきり"
+        ]
+    },
+    {
+        "name": "chou",
+        "trans": [
+            "butterfly--蝶"
+        ]
+    },
+    {
+        "name": "minamoto",
+        "trans": [
+            "source, origin--源"
+        ]
+    },
+    {
+        "name": "nikibi",
+        "trans": [
+            "pimple, acne--面皰"
+        ]
+    },
+    {
+        "name": "mayu",
+        "trans": [
+            "eyebrow--眉"
+        ]
+    },
+    {
+        "name": "unubore",
+        "trans": [
+            "pretension, conceit, hubris--自惚れ"
+        ]
+    },
+    {
+        "name": "chou",
+        "trans": [
+            "guts, bowels, intestines--腸"
+        ]
+    },
+    {
+        "name": "shiro",
+        "trans": [
+            "price, materials, substitution--代"
+        ]
+    },
+    {
+        "name": "bateru",
+        "trans": [
+            "to be exhausted, to be worn out--ばてる"
+        ]
+    },
+    {
+        "name": "ooyake",
+        "trans": [
+            "official, public, formal, open, governmental--公"
+        ]
+    },
+    {
+        "name": "nagashi",
+        "trans": [
+            "sink--流し"
+        ]
+    },
+    {
+        "name": "jikkuri",
+        "trans": [
+            "deliberately, carefully--じっくり"
+        ]
+    },
+    {
+        "name": "sono",
+        "trans": [
+            "garden, park, plantation--園"
+        ]
+    },
+    {
+        "name": "taeru",
+        "trans": [
+            "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t--堪える"
+        ]
+    },
+    {
+        "name": "hageru",
+        "trans": [
+            "to come off, to be worn off, to fade, to discolor--剥げる"
+        ]
+    },
+    {
+        "name": "okkanai",
+        "trans": [
+            "frightening, huge--おっかない"
+        ]
+    },
+    {
+        "name": "oohaba",
+        "trans": [
+            "full width, large scale, drastic--大幅"
+        ]
+    },
+    {
+        "name": "kippari",
+        "trans": [
+            "clearly, plainly, distinctly--きっぱり"
+        ]
+    },
+    {
+        "name": "kikkari",
+        "trans": [
+            "exactly, precisely--きっかり"
+        ]
+    },
+    {
+        "name": "kichitto",
+        "trans": [
+            "exactly, perfectly--きちっと"
+        ]
+    },
+    {
+        "name": "baramaku",
+        "trans": [
+            "to disseminate, to scatter, to give money freely--散蒔く"
+        ]
+    },
+    {
+        "name": "kanegura",
+        "trans": [
+            "safe, vault, treasury, provider of funds--金庫"
+        ]
+    },
+    {
+        "name": "taeru",
+        "trans": [
+            "to bear, to endure--耐える"
+        ]
+    },
+    {
+        "name": "kodawaru",
+        "trans": [
+            "to fuss over, to be particular about, to be concerned about--こだわる"
+        ]
+    },
+    {
+        "name": "kayu",
+        "trans": [
+            "(rice) gruel--粥"
+        ]
+    },
+    {
+        "name": "hitojichi",
+        "trans": [
+            "hostage, prisoner--人質"
+        ]
+    },
+    {
+        "name": "gakkuri",
+        "trans": [
+            "heartbroken--がっくり"
+        ]
+    },
+    {
+        "name": "shibashiba",
+        "trans": [
+            "often, again and again, frequently--屡"
+        ]
+    },
+    {
+        "name": "sazukeru",
+        "trans": [
+            "to grant, to award, to teach--授ける"
+        ]
+    },
+    {
+        "name": "gessori",
+        "trans": [
+            "being disheartened, losing weight--げっそり"
+        ]
+    },
+    {
+        "name": "seidaku",
+        "trans": [
+            "good and evil, purity and impurity--清濁"
+        ]
+    },
+    {
+        "name": "kusagusa",
+        "trans": [
+            "variety--種々"
+        ]
+    },
+    {
+        "name": "taeru",
+        "trans": [
+            "to die out, to peter out, to become extinct--絶える"
+        ]
+    },
+    {
+        "name": "soppo",
+        "trans": [
+            "look (or turn) the other way--外方"
+        ]
+    },
+    {
+        "name": "nebari",
+        "trans": [
+            "stickyness, viscosity--粘り"
+        ]
+    },
+    {
+        "name": "unzari",
+        "trans": [
+            "tedious, boring, being fed up with--うんざり"
+        ]
+    },
+    {
+        "name": "tareru",
+        "trans": [
+            "to hang, to droop, to drop, to lower, to pull down, to dangle, to sag, to drip, to ooze, to trickle, to leave--垂れる"
+        ]
+    },
+    {
+        "name": "unaru",
+        "trans": [
+            "to groan, to moan, to roar, to howl, to growl, to hum, to buzz, to sough--唸る"
+        ]
+    },
+    {
+        "name": "hayasu",
+        "trans": [
+            "to grow, to cultivate, to wear beard--生やす"
+        ]
+    },
+    {
+        "name": "kukkiri",
+        "trans": [
+            "distinctly, clearly, boldly--くっきり"
+        ]
+    },
+    {
+        "name": "kizuku",
+        "trans": [
+            "to build, to pile up, to amass--築く"
+        ]
+    },
+    {
+        "name": "hinata",
+        "trans": [
+            "sunny place, in the sun--日向"
+        ]
+    },
+    {
+        "name": "zubari",
+        "trans": [
+            "decisively, decidedly, once and for all, unreservedly, frankly--ずばり"
+        ]
+    }  
+]
