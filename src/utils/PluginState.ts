@@ -33,6 +33,8 @@ export default class PluginState {
     chapter: number
     dictKey: string
   }
+  enterKeyListener: any
+
 
   constructor(context: vscode.ExtensionContext) {
     const globalState = context.globalState
@@ -50,6 +52,8 @@ export default class PluginState {
     this.hasWrong = false
     this.curInput = ''
     this.currentExerciseCount = 0
+
+    this.enterKeyListener = null;
 
     this.chapterLength = getConfig('chapterLength')
     this._readOnlyMode = false

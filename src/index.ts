@@ -46,7 +46,7 @@ export function activate(context: vscode.ExtensionContext) {
       // 用户完成单词输入
       soundPlayer('success')
       pluginState.finishWord()
-      initializeBar()
+      initializeBar(true)
     } else if (compareResult >= 0) {
       pluginState.wrongInput()
       inputBar.color = pluginState.highlightWrongColor
@@ -54,7 +54,7 @@ export function activate(context: vscode.ExtensionContext) {
       setTimeout(() => {
         pluginState.clearWrong()
         inputBar.color = undefined
-        initializeBar()
+        initializeBar(true)
       }, pluginState.highlightWrongDelay)
     }
   })
@@ -62,12 +62,12 @@ export function activate(context: vscode.ExtensionContext) {
   vscode.workspace.onDidChangeConfiguration((event) => {
     if (event.affectsConfiguration('qwerty-learner.placeholder')) {
       pluginState.placeholder = getConfig('placeholder')
-      initializeBar()
+      initializeBar(true)
     }
 
     if (event.affectsConfiguration('qwerty-learner.chapterLength')) {
       pluginState.chapterLength = getConfig('chapterLength')
-      initializeBar()
+      initializeBar(true)
     }
   })
 
@@ -77,7 +77,7 @@ export function activate(context: vscode.ExtensionContext) {
       vscode.commands.registerCommand('qwerty-learner.start', () => {
         pluginState.isStart = !pluginState.isStart
         if (pluginState.isStart) {
-          initializeBar()
+          initializeBar(true)
           wordBar.show()
           inputBar.show()
           transBar.show()
@@ -89,6 +89,10 @@ export function activate(context: vscode.ExtensionContext) {
           inputBar.hide()
           transBar.hide()
           removeReadOnlyInterval()
+          if (pluginState.enterKeyListener) {
+            pluginState.enterKeyListener.dispose();
+            pluginState.enterKeyListener = null;
+          }
         }
       }),
       vscode.commands.registerCommand('qwerty-learner.changeChapter', async () => {
@@ -98,7 +102,7 @@ export function activate(context: vscode.ExtensionContext) {
         )
         if (inputChapter !== undefined) {
           pluginState.chapter = parseInt(inputChapter) - 1
-          initializeBar()
+          initializeBar(true)
         }
       }),
       vscode.commands.registerCommand('qwerty-learner.changeDict', async () => {
@@ -109,12 +113,12 @@ export function activate(context: vscode.ExtensionContext) {
         const inputDict = await vscode.window.showQuickPick(dictList, { placeHolder: `当前字典: ${pluginState.dict.name}` })
         if (inputDict !== undefined) {
           pluginState.dictKey = inputDict.key
-          initializeBar()
+          initializeBar(true)
         }
       }),
       vscode.commands.registerCommand('qwerty-learner.toggleWordVisibility', () => {
         pluginState.wordVisibility = !pluginState.wordVisibility
-        initializeBar()
+        initializeBar(true)
       }),
       vscode.commands.registerCommand('qwerty-learner.toggleReadOnlyMode', () => {
         pluginState.readOnlyMode = !pluginState.readOnlyMode
@@ -127,11 +131,14 @@ export function activate(context: vscode.ExtensionContext) {
     ],
   )
 
-  function initializeBar() {
-    setUpWordBar()
-    setUpTransBar()
-    setUpInputBar()
+  function initializeBar(isShowTrans: boolean) {
+    setUpWordBar();
+    setUpInputBar();
+  
+
+    setUpTransBar(isShowTrans);
   }
+  
   function setUpWordBar() {
     wordBar.text = pluginState.getInitialWordBarContent()
     if (pluginState.shouldPlayVoice) {
@@ -141,21 +148,46 @@ export function activate(context: vscode.ExtensionContext) {
       })
     }
   }
-  function setUpTransBar() {
-    transBar.text = pluginState.getInitialTransBarContent()
+  function setUpTransBar(isShowTrans: boolean) {
+    if(isShowTrans) {
+      transBar.text = pluginState.getInitialTransBarContent();
+      transBar.show(); // 确保 transBar 被显示
+    } else {
+      transBar.text = '';
+      transBar.show();
+    }
   }
   function setUpInputBar() {
     inputBar.text = pluginState.getInitialInputBarContent()
   }
 
+  // function setUpReadOnlyInterval() {
+  //   if (!pluginState.readOnlyIntervalId) {
+  //     pluginState.readOnlyIntervalId = setInterval(() => {
+  //       pluginState.finishWord()
+  //       initializeBar()
+  //     }, pluginState.readOnlyInterval)
+  //   }
+  // }
+
   function setUpReadOnlyInterval() {
-    if (!pluginState.readOnlyIntervalId) {
-      pluginState.readOnlyIntervalId = setInterval(() => {
-        pluginState.finishWord()
-        initializeBar()
-      }, pluginState.readOnlyInterval)
-    }
+    pluginState.enterKeyListener = vscode.commands.registerCommand('type', (args) => {
+      if (args.text === '\n') {
+        pluginState.finishWord();
+        initializeBar(false);
+      }
+      if (args.text === ' ' && pluginState.readOnlyMode) {
+        setUpTransBar(true);
+      }
+    });
+  
+
+  
+    // 添加到上下文订阅
+    context.subscriptions.push(pluginState.enterKeyListener);
   }
+  
+
   function removeReadOnlyInterval() {
     if (pluginState.readOnlyIntervalId) {
       clearInterval(pluginState.readOnlyIntervalId)
