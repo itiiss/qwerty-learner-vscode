@@ -1,0 +1,944 @@
+[
+    {
+        "name": "concede",
+        "trans": [
+            "承认； 让步； 允许"
+        ],
+        "usphone": "kən'sid",
+        "ukphone": "kən'siːd"
+    },
+    {
+        "name": "conceit",
+        "trans": [
+            "自负， 自大"
+        ],
+        "usphone": "kən'sit",
+        "ukphone": "kən'siːt"
+    },
+    {
+        "name": "emanate",
+        "trans": [
+            "散发； 表现， 显示"
+        ],
+        "usphone": "ˈɛməˌneɪt",
+        "ukphone": "'eməneɪt"
+    },
+    {
+        "name": "clamor",
+        "trans": [
+            "吵闹， 喧哗"
+        ],
+        "usphone": "'klæmə",
+        "ukphone": "'klæmər"
+    },
+    {
+        "name": "foment",
+        "trans": [
+            "煽动， 挑起， 激起"
+        ],
+        "usphone": "",
+        "ukphone": "fou'ment"
+    },
+    {
+        "name": "liable",
+        "trans": [
+            "有责任的， 有义务的； 易于…的"
+        ],
+        "usphone": "'laɪəbl",
+        "ukphone": "'laɪəbl"
+    },
+    {
+        "name": "hitch",
+        "trans": [
+            "搭便车；提起，拉起；拴住",
+            "故障， 障碍"
+        ],
+        "usphone": "hɪtʃ",
+        "ukphone": "hɪtʃ"
+    },
+    {
+        "name": "adversary",
+        "trans": [
+            "对手， 敌手"
+        ],
+        "usphone": "'ædvɚsɛri",
+        "ukphone": "'ædvərseri"
+    },
+    {
+        "name": "exhort",
+        "trans": [
+            "劝告， 规劝， 告诫"
+        ],
+        "usphone": "ɪɡ'zɔrt",
+        "ukphone": "ɪg'zɔːrt"
+    },
+    {
+        "name": "dote",
+        "trans": [
+            "溺爱"
+        ],
+        "usphone": "dot",
+        "ukphone": "dout"
+    },
+    {
+        "name": "bequeath",
+        "trans": [
+            "遗赠； 流传"
+        ],
+        "usphone": "bɪ'kwið",
+        "ukphone": "bɪ'kwiːð"
+    },
+    {
+        "name": "brag",
+        "trans": [
+            "吹嘘， 自夸， 自吹自擂"
+        ],
+        "usphone": "bræɡ",
+        "ukphone": "bræg"
+    },
+    {
+        "name": "acquisition",
+        "trans": [
+            "习得， 获得； 收购， 购置"
+        ],
+        "usphone": ",ækwɪ'zɪʃən",
+        "ukphone": "ˌækwɪ'zɪʃn"
+    },
+    {
+        "name": "pitch",
+        "trans": [
+            "音高，音调；倾斜度；沥青，柏油；"
+        ],
+        "usphone": "pɪtʃ",
+        "ukphone": "pɪtʃ"
+    },
+    {
+        "name": "grudge",
+        "trans": [
+            "勉强做； 不情愿地给",
+            "怨恨，积怨"
+        ],
+        "usphone": "ɡrʌdʒ",
+        "ukphone": "grʌdʒ"
+    },
+    {
+        "name": "lunge",
+        "trans": [
+            "猛冲， 猛扑"
+        ],
+        "usphone": "lʌndʒ",
+        "ukphone": "lʌndʒ"
+    },
+    {
+        "name": "balk",
+        "trans": [
+            "畏缩； 阻止； 妨碍",
+            "障碍"
+        ],
+        "usphone": "bɔk",
+        "ukphone": "bɔːk"
+    },
+    {
+        "name": "dearth",
+        "trans": [
+            "缺乏， 短缺"
+        ],
+        "usphone": "də:θ",
+        "ukphone": "dɜːrθ"
+    },
+    {
+        "name": "aberrant",
+        "trans": [
+            "越轨的； 异常的"
+        ],
+        "usphone": "æ'bɛrənt",
+        "ukphone": "æ'berənt"
+    },
+    {
+        "name": "indict",
+        "trans": [
+            "控诉， 起诉， 控告"
+        ],
+        "usphone": "ɪn'daɪt",
+        "ukphone": "ɪn'daɪt"
+    },
+    {
+        "name": "stampede",
+        "trans": [
+            "狂奔，涌向；使仓促行事",
+            "逃窜， 狂奔； 热潮， 风尚"
+        ],
+        "usphone": "stæm'pid",
+        "ukphone": "stæm'piːd"
+    },
+    {
+        "name": "cramp",
+        "trans": [
+            "痉挛，抽筋；",
+            "阻碍， 阻止"
+        ],
+        "usphone": "kræmp",
+        "ukphone": "kræmp"
+    },
+    {
+        "name": "staunch",
+        "trans": [
+            "坚定的， 忠诚的"
+        ],
+        "usphone": "stɔntʃ",
+        "ukphone": "stɔːntʃ"
+    },
+    {
+        "name": "exhale",
+        "trans": [
+            "呼出； 散发"
+        ],
+        "usphone": "ɛks'hel",
+        "ukphone": "eks'heɪl"
+    },
+    {
+        "name": "indignant",
+        "trans": [
+            "愤慨的， 恼怒的"
+        ],
+        "usphone": "ɪn'dɪɡnənt",
+        "ukphone": "ɪn'dɪgnənt"
+    },
+    {
+        "name": "deliberate",
+        "trans": [
+            "故意的， 蓄意的； 审慎的， 深思熟虑的",
+            "深思熟虑"
+        ],
+        "usphone": "dɪ'lɪbərət",
+        "ukphone": "dɪ'lɪb(ə)rət"
+    },
+    {
+        "name": "pertinent",
+        "trans": [
+            "相关的； 恰当的， 贴切的"
+        ],
+        "usphone": "'pɝtnənt",
+        "ukphone": "'pɜːrtnənt"
+    },
+    {
+        "name": "linger",
+        "trans": [
+            "徘徊， 流连； 继续存留； 缓慢消失"
+        ],
+        "usphone": "'lɪŋɡɚ",
+        "ukphone": "'lɪŋgər"
+    },
+    {
+        "name": "quench",
+        "trans": [
+            "扑灭， 熄灭； 解"
+        ],
+        "usphone": "kwɛntʃ",
+        "ukphone": "kwentʃ"
+    },
+    {
+        "name": "indigenous",
+        "trans": [
+            "本地的， 本土的； 土产的； 土著的"
+        ],
+        "usphone": "ɪn'dɪdʒənəs",
+        "ukphone": "ɪn'dɪdʒənəs"
+    },
+    {
+        "name": "grump",
+        "trans": [
+            "发脾气，发牢骚",
+            "脾气不好的人"
+        ],
+        "usphone": "ɡrʌmp",
+        "ukphone": "grʌmp"
+    },
+    {
+        "name": "clumsy",
+        "trans": [
+            "笨拙的； 不得体的， 冒犯人的； 复杂难懂的， 难处理的"
+        ],
+        "usphone": "'klʌmzi",
+        "ukphone": "'klʌmzi"
+    },
+    {
+        "name": "grovel",
+        "trans": [
+            "摇尾乞怜， 奴颜婢膝"
+        ],
+        "usphone": "'ɡrɑvl",
+        "ukphone": "'grɑːvl"
+    },
+    {
+        "name": "implore",
+        "trans": [
+            "哀求， 恳求"
+        ],
+        "usphone": "ɪm'plɔr",
+        "ukphone": "ɪm'plɔːr"
+    },
+    {
+        "name": "eradicate",
+        "trans": [
+            "根除， 灭绝"
+        ],
+        "usphone": "ɪ'rædɪket",
+        "ukphone": "ɪ'rædɪkeɪt"
+    },
+    {
+        "name": "pensive",
+        "trans": [
+            "沉思的； 忧虑的"
+        ],
+        "usphone": "'pɛnsɪv",
+        "ukphone": "'pensɪv"
+    },
+    {
+        "name": "tranquil",
+        "trans": [
+            "安静的， 平静的"
+        ],
+        "usphone": "ˈtræŋkwəl",
+        "ukphone": "'træŋkwɪl"
+    },
+    {
+        "name": "gouge",
+        "trans": [
+            "挖出；敲竹杠",
+            "凿子"
+        ],
+        "usphone": "ɡaʊdʒ",
+        "ukphone": "gaudʒ"
+    },
+    {
+        "name": "perch",
+        "trans": [
+            "栖息，停留；把…置于较高处；坐于",
+            "栖息处， 栖木； 高处， 较高的位置； 鲈鱼"
+        ],
+        "usphone": "pɝtʃ",
+        "ukphone": "pɜːrtʃ"
+    },
+    {
+        "name": "recede",
+        "trans": [
+            "退， 后退； 渐渐远去； 逐渐减弱"
+        ],
+        "usphone": "rɪ'sid",
+        "ukphone": "rɪ'siːd"
+    },
+    {
+        "name": "thaw",
+        "trans": [
+            "融化，解冻；化冻；变暖；变得友善",
+            "解冻时期； 缓和"
+        ],
+        "usphone": "θɔ",
+        "ukphone": "θɔː"
+    },
+    {
+        "name": "clench",
+        "trans": [
+            "握紧， 抓牢； 咬紧"
+        ],
+        "usphone": "klɛntʃ",
+        "ukphone": "klentʃ"
+    },
+    {
+        "name": "swindle",
+        "trans": [
+            "诈骗， 骗取"
+        ],
+        "usphone": "swɪndl",
+        "ukphone": "'swɪndl"
+    },
+    {
+        "name": "seep",
+        "trans": [
+            "漏出， 渗漏"
+        ],
+        "usphone": "sip",
+        "ukphone": "siːp"
+    },
+    {
+        "name": "heed",
+        "trans": [
+            "注意， 留心"
+        ],
+        "usphone": "hid",
+        "ukphone": "hiːd"
+    },
+    {
+        "name": "recess",
+        "trans": [
+            "休会期；休庭；暂停；凹室，"
+        ],
+        "usphone": "'risɛs",
+        "ukphone": "rɪ'ses"
+    },
+    {
+        "name": "braid",
+        "trans": [
+            "穗带，饰带；发辫",
+            "编织； 编成辫子"
+        ],
+        "usphone": "bred",
+        "ukphone": "breɪd"
+    },
+    {
+        "name": "interrogate",
+        "trans": [
+            "审问， 讯问， 盘问"
+        ],
+        "usphone": "ɪn'tɛrəɡet",
+        "ukphone": "ɪn'terəgeɪt"
+    },
+    {
+        "name": "stingy",
+        "trans": [
+            "吝啬的， 小气的"
+        ],
+        "usphone": "'stɪndʒi",
+        "ukphone": "'stɪndʒi"
+    },
+    {
+        "name": "inception",
+        "trans": [
+            "开端， 开始"
+        ],
+        "usphone": "ɪn'sɛpʃən",
+        "ukphone": "ɪn'sepʃn"
+    },
+    {
+        "name": "arid",
+        "trans": [
+            "干旱的； 贫瘠的； 无趣的"
+        ],
+        "usphone": "'ærɪd",
+        "ukphone": "'ærɪd"
+    },
+    {
+        "name": "motif",
+        "trans": [
+            "主题， 主旨； 图形"
+        ],
+        "usphone": "mo'tif",
+        "ukphone": "mou'tiːf"
+    },
+    {
+        "name": "despise",
+        "trans": [
+            "鄙视， 看不起"
+        ],
+        "usphone": "dɪ'spaɪz",
+        "ukphone": "dɪ'spaɪz"
+    },
+    {
+        "name": "vulgar",
+        "trans": [
+            "下流的， 粗俗的； 普通的， 通俗的"
+        ],
+        "usphone": "'vʌlɡɚ",
+        "ukphone": "'vʌlgər"
+    },
+    {
+        "name": "shrewd",
+        "trans": [
+            "敏捷的， 机灵的； 精明的"
+        ],
+        "usphone": "ʃrud",
+        "ukphone": "ʃruːd"
+    },
+    {
+        "name": "ravine",
+        "trans": [
+            "沟壑， 溪谷"
+        ],
+        "usphone": "rə'vin",
+        "ukphone": "rə'viːn"
+    },
+    {
+        "name": "decadent",
+        "trans": [
+            "堕落的， 颓废的"
+        ],
+        "usphone": "'dɛkədənt",
+        "ukphone": "'dekədənt"
+    },
+    {
+        "name": "defiant",
+        "trans": [
+            "反叛的， 挑衅的， 公然违抗的"
+        ],
+        "usphone": "dɪ'faɪənt",
+        "ukphone": "dɪ'faɪənt"
+    },
+    {
+        "name": "wither",
+        "trans": [
+            "枯萎， 凋谢； 衰退； 萎缩； 破灭"
+        ],
+        "usphone": "'wɪðɚ",
+        "ukphone": "'wɪðər"
+    },
+    {
+        "name": "swoop",
+        "trans": [
+            "猛扑； 突然袭击",
+            "突然行动"
+        ],
+        "usphone": "swup",
+        "ukphone": "swuːp"
+    },
+    {
+        "name": "swoon",
+        "trans": [
+            "昏厥， 昏倒； 痴迷"
+        ],
+        "usphone": "",
+        "ukphone": "swuːn"
+    },
+    {
+        "name": "ravage",
+        "trans": [
+            "毁坏； 抢劫， 掠夺"
+        ],
+        "usphone": "'rævɪdʒ",
+        "ukphone": "'rævɪdʒ"
+    },
+    {
+        "name": "chafe",
+        "trans": [
+            "擦破， 擦痛； 恼怒， 焦躁"
+        ],
+        "usphone": "tʃef",
+        "ukphone": "tʃeɪf"
+    },
+    {
+        "name": "distort",
+        "trans": [
+            "弄歪； 扭曲， 歪曲"
+        ],
+        "usphone": "dɪ'stɔrt",
+        "ukphone": "dɪ'stɔːrt"
+    },
+    {
+        "name": "hoe",
+        "trans": [
+            "用锄头锄",
+            "锄头"
+        ],
+        "usphone": "ho",
+        "ukphone": "hou"
+    },
+    {
+        "name": "secede",
+        "trans": [
+            "正式脱离， 退出"
+        ],
+        "usphone": "sɪ'sid",
+        "ukphone": "sɪ'siːd"
+    },
+    {
+        "name": "bland",
+        "trans": [
+            "平淡的， 乏味的； 清淡的； 沉稳的"
+        ],
+        "usphone": "blænd",
+        "ukphone": "blænd"
+    },
+    {
+        "name": "lumber",
+        "trans": [
+            "笨拙地移动；迫使担负",
+            "木材， 木料； 杂物"
+        ],
+        "usphone": "'lʌmbɚ",
+        "ukphone": "'lʌmbər"
+    },
+    {
+        "name": "hue",
+        "trans": [
+            "颜色； 色度， 色调； 信仰， 观点； 形式， 样子"
+        ],
+        "usphone": "",
+        "ukphone": "hjuː"
+    },
+    {
+        "name": "hoof",
+        "trans": [
+            "蹄"
+        ],
+        "usphone": "huf",
+        "ukphone": "huːf"
+    },
+    {
+        "name": "appease",
+        "trans": [
+            "平息； 安抚， 抚慰； 绥靖"
+        ],
+        "usphone": "ə'piz",
+        "ukphone": "ə'piːz"
+    },
+    {
+        "name": "impede",
+        "trans": [
+            "妨碍， 阻碍， 阻止"
+        ],
+        "usphone": "ɪm'pid",
+        "ukphone": "ɪm'piːd"
+    },
+    {
+        "name": "intrepid",
+        "trans": [
+            "勇敢的， 无畏的"
+        ],
+        "usphone": "ɪn'trɛpɪd",
+        "ukphone": "ɪn'trepɪd"
+    },
+    {
+        "name": "meticulous",
+        "trans": [
+            "细心的， 小心翼翼的"
+        ],
+        "usphone": "mə'tɪkjələs",
+        "ukphone": "mə'tɪkjələs"
+    },
+    {
+        "name": "extort",
+        "trans": [
+            "勒索， 敲诈， 强夺"
+        ],
+        "usphone": "ɪk'stɔrt",
+        "ukphone": "ɪk'stɔːrt"
+    },
+    {
+        "name": "trample",
+        "trans": [
+            "踩碎； 践踏， 摧残"
+        ],
+        "usphone": "'træmpl",
+        "ukphone": "'træmpl"
+    },
+    {
+        "name": "wield",
+        "trans": [
+            "支配， 掌权， 行使"
+        ],
+        "usphone": "wild",
+        "ukphone": "wiːld"
+    },
+    {
+        "name": "clump",
+        "trans": [
+            "聚集， 成群； 以沉重的脚步行走",
+            "丛，簇，束；块，团；群，组"
+        ],
+        "usphone": "klʌmp",
+        "ukphone": "klʌmp"
+    },
+    {
+        "name": "extol",
+        "trans": [
+            "赞美， 颂扬"
+        ],
+        "usphone": "ɪk'stol",
+        "ukphone": "ɪk'stoul"
+    },
+    {
+        "name": "abut",
+        "trans": [
+            "邻接， 毗邻"
+        ],
+        "usphone": "ə'bʌt",
+        "ukphone": "ə'bʌt"
+    },
+    {
+        "name": "deplore",
+        "trans": [
+            "悲叹， 哀叹， 公开谴责"
+        ],
+        "usphone": "dɪ'plɔr",
+        "ukphone": "dɪ'plɔːr"
+    },
+    {
+        "name": "meager",
+        "trans": [
+            "不足的， 贫乏的； 消瘦的"
+        ],
+        "usphone": "'migɚ",
+        "ukphone": "'miːgər"
+    },
+    {
+        "name": "solicit",
+        "trans": [
+            "恳请； 乞求； 征求； 勾引； 招揽"
+        ],
+        "usphone": "sə'lɪsɪt",
+        "ukphone": "sə'lɪsɪt"
+    },
+    {
+        "name": "squid",
+        "trans": [
+            "鱿鱼， 枪乌贼"
+        ],
+        "usphone": "skwɪd",
+        "ukphone": "skwɪd"
+    },
+    {
+        "name": "bestow",
+        "trans": [
+            "赠与， 授予， 献给"
+        ],
+        "usphone": "bɪ'sto",
+        "ukphone": "bɪ'stou"
+    },
+    {
+        "name": "accede",
+        "trans": [
+            "即位， 就任； 同意"
+        ],
+        "usphone": "ək'sid",
+        "ukphone": "ək'siːd"
+    },
+    {
+        "name": "ratify",
+        "trans": [
+            "正式批准， 使正式生效"
+        ],
+        "usphone": "'rætɪfaɪ",
+        "ukphone": "'rætɪfaɪ"
+    },
+    {
+        "name": "retreat",
+        "trans": [
+            "退却，撤退；退缩",
+            "退却， 撤退； 隐退处"
+        ],
+        "usphone": "rɪ'trit",
+        "ukphone": "rɪ'triːt"
+    },
+    {
+        "name": "cram",
+        "trans": [
+            "填塞， 塞满； 匆忙准备， 临时死记硬背"
+        ],
+        "usphone": "kræm",
+        "ukphone": "kræm"
+    },
+    {
+        "name": "scuffle",
+        "trans": [
+            "扭打， 混战"
+        ],
+        "usphone": "'skʌfl",
+        "ukphone": "'skʌfl"
+    },
+    {
+        "name": "scorch",
+        "trans": [
+            "烧焦；枯萎，枯黄",
+            "焦痕"
+        ],
+        "usphone": "skɔrtʃ",
+        "ukphone": "skɔːrtʃ"
+    },
+    {
+        "name": "espouse",
+        "trans": [
+            "支持， 拥护， 赞成"
+        ],
+        "usphone": "ɪ'spaʊz",
+        "ukphone": "ɪ'spauz"
+    },
+    {
+        "name": "esteem",
+        "trans": [
+            "尊重， 敬重"
+        ],
+        "usphone": "ɪ'stim",
+        "ukphone": "ɪ'stiːm"
+    },
+    {
+        "name": "rub",
+        "trans": [
+            "擦， 摩擦"
+        ],
+        "usphone": "rʌb",
+        "ukphone": "rʌb"
+    },
+    {
+        "name": "rug",
+        "trans": [
+            "地毯； 围毯"
+        ],
+        "usphone": "rʌɡ",
+        "ukphone": "rʌg"
+    },
+    {
+        "name": "cramped",
+        "trans": [
+            "狭小的， 狭窄的； 受限制的； 密小难认的"
+        ],
+        "usphone": "kræmpt",
+        "ukphone": "kræmpt"
+    },
+    {
+        "name": "bleak",
+        "trans": [
+            "阴冷的； 无望的， 令人沮丧的； 乏味的； 荒凉的"
+        ],
+        "usphone": "blik",
+        "ukphone": "bliːk"
+    },
+    {
+        "name": "spurn",
+        "trans": [
+            "拒绝； 摈弃"
+        ],
+        "usphone": "spə:n",
+        "ukphone": "spɜːrn"
+    },
+    {
+        "name": "sap",
+        "trans": [
+            "使衰竭；削弱，逐渐破坏",
+            "液， 汁； 精力； 笨蛋"
+        ],
+        "usphone": "sæp",
+        "ukphone": "sæp"
+    },
+    {
+        "name": "recessive",
+        "trans": [
+            "隐性的"
+        ],
+        "usphone": "rɪ'sɛsɪv",
+        "ukphone": "rɪ'sesɪv"
+    },
+    {
+        "name": "indigent",
+        "trans": [
+            "贫困的， 贫穷的"
+        ],
+        "usphone": "'ɪndɪdʒənt",
+        "ukphone": "'ɪndɪdʒənt"
+    },
+    {
+        "name": "pique",
+        "trans": [
+            "激怒；激起，引起",
+            "恼怒， 生气； 怨恨"
+        ],
+        "usphone": "pik",
+        "ukphone": "piːk"
+    },
+    {
+        "name": "apprise",
+        "trans": [
+            "通知， 告诉"
+        ],
+        "usphone": "ə'praiz",
+        "ukphone": "ə'praɪz"
+    },
+    {
+        "name": "falter",
+        "trans": [
+            "衰退， 衰落； 发抖， 结巴地说； 蹒跚"
+        ],
+        "usphone": "'fɔltɚ",
+        "ukphone": "'fɔːltər"
+    },
+    {
+        "name": "squirt",
+        "trans": [
+            "喷射，喷；向…喷射",
+            "喷射； 〈口， 贬〉无名小辈"
+        ],
+        "usphone": "skwɝt",
+        "ukphone": "skwɜːrt"
+    },
+    {
+        "name": "auspicious",
+        "trans": [
+            "吉兆的， 吉利的； 幸运的"
+        ],
+        "usphone": "ɔ'spɪʃəs",
+        "ukphone": "ɔː'spɪʃəs"
+    },
+    {
+        "name": "conjure",
+        "trans": [
+            "变魔术， 变戏法； 召唤"
+        ],
+        "usphone": "'kʌndʒɚ",
+        "ukphone": "'kʌndʒər"
+    },
+    {
+        "name": "ponder",
+        "trans": [
+            "思索， 沉思"
+        ],
+        "usphone": "'pɑndɚ",
+        "ukphone": "'pɑːndər"
+    },
+    {
+        "name": "trench",
+        "trans": [
+            "挖沟",
+            "沟渠，壕沟；战壕"
+        ],
+        "usphone": "trɛntʃ",
+        "ukphone": "trentʃ"
+    },
+    {
+        "name": "incense",
+        "trans": [
+            "〔燃烧时发出怡人香味的〕香",
+            "使〔某人〕十分愤怒"
+        ],
+        "usphone": "'ɪnsɛns",
+        "ukphone": "'ɪnsens"
+    },
+    {
+        "name": "quell",
+        "trans": [
+            "制止， 镇压； 缓解， 减轻"
+        ],
+        "usphone": "kwɛl",
+        "ukphone": "kwel"
+    },
+    {
+        "name": "dismal",
+        "trans": [
+            "阴沉的， 阴郁的； 忧郁的， 沮丧的； 差劲的"
+        ],
+        "usphone": "'dɪzməl",
+        "ukphone": "'dɪzməl"
+    },
+    {
+        "name": "entrench",
+        "trans": [
+            "使根深蒂固， 牢固确立"
+        ],
+        "usphone": "ɪn'trɛntʃ",
+        "ukphone": "ɪn'trentʃ"
+    },
+    {
+        "name": "complacence",
+        "trans": [
+            "自满， 满足"
+        ],
+        "usphone": "kəm'plesns",
+        "ukphone": "kəm'pleɪsns"
+    },
+    {
+        "name": "soothe",
+        "trans": [
+            "缓和， 减轻； 抚慰， 安慰"
+        ],
+        "usphone": "sʊð",
+        "ukphone": "suːð"
+    }
+]

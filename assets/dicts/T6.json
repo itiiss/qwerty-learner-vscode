@@ -1,0 +1,839 @@
+[
+    {
+        "name": "gloomy",
+        "trans": [
+            "忧郁的， 令人沮丧的； 昏暗的， 阴暗的， 阴沉的"
+        ],
+        "usphone": "'ɡlumi",
+        "ukphone": "'gluːmi"
+    },
+    {
+        "name": "erratic",
+        "trans": [
+            "古怪的， 反复无常的； 不规则的； 不稳定的"
+        ],
+        "usphone": "ɪ'rætɪk",
+        "ukphone": "ɪ'rætɪk"
+    },
+    {
+        "name": "rectify",
+        "trans": [
+            "矫正， 纠正； 整顿"
+        ],
+        "usphone": "'rɛktɪfaɪ",
+        "ukphone": "'rektɪfaɪ"
+    },
+    {
+        "name": "crumple",
+        "trans": [
+            "变皱， 起皱； 破裂； 崩溃， 垮台"
+        ],
+        "usphone": "'krʌmpl",
+        "ukphone": "'krʌmpl"
+    },
+    {
+        "name": "ample",
+        "trans": [
+            "富足的， 充足的， 丰富的； 宽敞的"
+        ],
+        "usphone": "'æmpl",
+        "ukphone": "'æmpl"
+    },
+    {
+        "name": "medieval",
+        "trans": [
+            "中世纪的， 中古的"
+        ],
+        "usphone": ",midɪ'ivəl",
+        "ukphone": "ˌmiːd'iːvl"
+    },
+    {
+        "name": "dispose",
+        "trans": [
+            "安排， 布置； 使倾向于"
+        ],
+        "usphone": "dɪ'spoz",
+        "ukphone": "dɪ'spouz"
+    },
+    {
+        "name": "comprise",
+        "trans": [
+            "包含； 由…组成"
+        ],
+        "usphone": "kəm'praɪz",
+        "ukphone": "kəm'praɪz"
+    },
+    {
+        "name": "negate",
+        "trans": [
+            "取消； 否定"
+        ],
+        "usphone": "nɪˈɡet",
+        "ukphone": "nɪ'geɪt"
+    },
+    {
+        "name": "tribute",
+        "trans": [
+            "贡品； 颂词， 称赞； 悼念， 致哀； 礼物"
+        ],
+        "usphone": "'trɪbjut",
+        "ukphone": "'trɪbjuːt"
+    },
+    {
+        "name": "incentive",
+        "trans": [
+            "刺激； 动机"
+        ],
+        "usphone": "ɪn'sɛntɪv",
+        "ukphone": "ɪn'sentɪv"
+    },
+    {
+        "name": "excise",
+        "trans": [
+            "切除； 删去"
+        ],
+        "usphone": "ɛk'saɪz",
+        "ukphone": "'eksaɪz"
+    },
+    {
+        "name": "desolate",
+        "trans": [
+            "荒凉的， 无人烟的； 不幸的， 忧伤的",
+            "使感到悲惨， 使感到凄凉； 使荒芜"
+        ],
+        "usphone": "'dɛsələt",
+        "ukphone": "'des(ə)lət"
+    },
+    {
+        "name": "indignant",
+        "trans": [
+            "愤慨的， 恼怒的"
+        ],
+        "usphone": "ɪn'dɪɡnənt",
+        "ukphone": "ɪn'dɪgnənt"
+    },
+    {
+        "name": "vagrant",
+        "trans": [
+            "漂泊的",
+            "无业游民，流浪者"
+        ],
+        "usphone": "'veɡrənt",
+        "ukphone": "'veɪgrənt"
+    },
+    {
+        "name": "undertaking",
+        "trans": [
+            "任务， 项目； 事业， 企业； 承诺， 保证"
+        ],
+        "usphone": "'ʌndɚ'tekɪŋ",
+        "ukphone": "ˌʌndər'teɪkɪŋ"
+    },
+    {
+        "name": "dissipate",
+        "trans": [
+            "消散， 消失； 挥霍， 浪费"
+        ],
+        "usphone": "'dɪsɪpet",
+        "ukphone": "'dɪsɪpeɪt"
+    },
+    {
+        "name": "leach",
+        "trans": [
+            "过滤；溶解",
+            "过滤器； 过滤剂"
+        ],
+        "usphone": "litʃ",
+        "ukphone": "liːtʃ"
+    },
+    {
+        "name": "diminish",
+        "trans": [
+            "降低， 贬低； 减少， 减弱"
+        ],
+        "usphone": "dɪ'mɪnɪʃ",
+        "ukphone": "dɪ'mɪnɪʃ"
+    },
+    {
+        "name": "vein",
+        "trans": [
+            "静脉； 叶脉； 纹理， 纹路； 方式， 风格"
+        ],
+        "usphone": "ven",
+        "ukphone": "veɪn"
+    },
+    {
+        "name": "garb",
+        "trans": [
+            "服装，装束",
+            "穿着， 装扮"
+        ],
+        "usphone": "ɡɑrb",
+        "ukphone": "gɑːrb"
+    },
+    {
+        "name": "plow",
+        "trans": [
+            "耕田， 犁田， 耕作",
+            "犁"
+        ],
+        "usphone": "plaʊ",
+        "ukphone": "plau"
+    },
+    {
+        "name": "subsistence",
+        "trans": [
+            "生存， 生计"
+        ],
+        "usphone": "səb'sɪstəns",
+        "ukphone": "səb'sɪstəns"
+    },
+    {
+        "name": "dilute",
+        "trans": [
+            "冲淡的，稀释的",
+            "冲淡， 稀释； 淡化， 削弱"
+        ],
+        "usphone": "daɪ'l(j)ut",
+        "ukphone": "daɪ'luːt"
+    },
+    {
+        "name": "vascular",
+        "trans": [
+            "血管的， 脉管的"
+        ],
+        "usphone": "'væskjəlɚ",
+        "ukphone": "'væskjələr"
+    },
+    {
+        "name": "exhilarating",
+        "trans": [
+            "令人高兴的， 使人兴奋的"
+        ],
+        "usphone": "ɪɡ'zɪləretɪŋ",
+        "ukphone": "ɪg'zɪləreɪtɪŋ"
+    },
+    {
+        "name": "inanity",
+        "trans": [
+            "空虚， 空洞； 无意义的事物"
+        ],
+        "usphone": "i'nænəti",
+        "ukphone": "ɪ'nænəti"
+    },
+    {
+        "name": "redeem",
+        "trans": [
+            "赎回； 偿清， 付清； 兑换； 弥补， 补偿； 履行， 遵守"
+        ],
+        "usphone": "rɪ'dim",
+        "ukphone": "rɪ'diːm"
+    },
+    {
+        "name": "forfeit",
+        "trans": [
+            "被没收，丧失",
+            "罚款； 没收物"
+        ],
+        "usphone": "'fɔrfət",
+        "ukphone": "'fɔːrfət"
+    },
+    {
+        "name": "diligent",
+        "trans": [
+            "勤奋的， 刻苦的， 勤勉的"
+        ],
+        "usphone": "'dɪlɪdʒənt",
+        "ukphone": "'dɪlɪdʒənt"
+    },
+    {
+        "name": "disparate",
+        "trans": [
+            "迥然不同的"
+        ],
+        "usphone": "'dɪspərət",
+        "ukphone": "'dɪspərət"
+    },
+    {
+        "name": "perish",
+        "trans": [
+            "灭亡； 湮灭， 毁灭； 老化"
+        ],
+        "usphone": "'pɛrɪʃ",
+        "ukphone": "'perɪʃ"
+    },
+    {
+        "name": "stipulate",
+        "trans": [
+            "规定， 明确要求； 约定"
+        ],
+        "usphone": "'stɪpjulet",
+        "ukphone": "'stɪpjuleɪt"
+    },
+    {
+        "name": "chant",
+        "trans": [
+            "唱圣歌； 反复呼喊",
+            "圣歌；单调的吟唱；反复呼喊的话语"
+        ],
+        "usphone": "tʃænt",
+        "ukphone": "tʃænt"
+    },
+    {
+        "name": "toady",
+        "trans": [
+            "谄媚，奉承",
+            "谄媚者， 马屁精"
+        ],
+        "usphone": "'todi",
+        "ukphone": "'toudi"
+    },
+    {
+        "name": "generic",
+        "trans": [
+            "种类的， 属的； 一般的， 普通的"
+        ],
+        "usphone": "dʒə'nɛrɪk",
+        "ukphone": "dʒə'nerɪk"
+    },
+    {
+        "name": "notorious",
+        "trans": [
+            "臭名昭著的， 声名狼藉的"
+        ],
+        "usphone": "no'tɔrɪəs",
+        "ukphone": "nou'tɔːriəs"
+    },
+    {
+        "name": "deprive",
+        "trans": [
+            "使失去， 剥夺"
+        ],
+        "usphone": "dɪ'praɪv",
+        "ukphone": "dɪ'praɪv"
+    },
+    {
+        "name": "slope",
+        "trans": [
+            "倾斜",
+            "斜坡，斜面；斜度"
+        ],
+        "usphone": "slop",
+        "ukphone": "sloup"
+    },
+    {
+        "name": "forestall",
+        "trans": [
+            "预防， 预先阻止； 先发制人"
+        ],
+        "usphone": "",
+        "ukphone": "fɔːr'stɔːl"
+    },
+    {
+        "name": "henceforth",
+        "trans": [
+            "从此以后"
+        ],
+        "usphone": ",hɛns'fɔrθ",
+        "ukphone": "ˌhens'fɔːrθ"
+    },
+    {
+        "name": "beam",
+        "trans": [
+            "面露喜色；发射，播送；照射",
+            "束， 波束， 光线； 梁； 笑容， 喜色"
+        ],
+        "usphone": "bim",
+        "ukphone": "biːm"
+    },
+    {
+        "name": "sprout",
+        "trans": [
+            "发芽，抽条，生长；迅速出现，涌现出",
+            "新芽， 嫩枝， 苗"
+        ],
+        "usphone": "spraʊt",
+        "ukphone": "spraut"
+    },
+    {
+        "name": "rally",
+        "trans": [
+            "集合，召集；恢复，重新振作",
+            "集会， 大会"
+        ],
+        "usphone": "'ræli",
+        "ukphone": "'ræli"
+    },
+    {
+        "name": "entreat",
+        "trans": [
+            "乞求， 恳求， 请求"
+        ],
+        "usphone": "ɪn'trit",
+        "ukphone": "ɪn'triːt"
+    },
+    {
+        "name": "vanish",
+        "trans": [
+            "消失； 灭绝"
+        ],
+        "usphone": "'vænɪʃ",
+        "ukphone": "'vænɪʃ"
+    },
+    {
+        "name": "perspicuous",
+        "trans": [
+            "明白易懂的； 明了的"
+        ],
+        "usphone": "pə'spikjuəs",
+        "ukphone": "ˌpɜːr'spɪkjuəs"
+    },
+    {
+        "name": "allege",
+        "trans": [
+            "断言， 宣称"
+        ],
+        "usphone": "ə'lɛdʒ",
+        "ukphone": "ə'ledʒ"
+    },
+    {
+        "name": "withhold",
+        "trans": [
+            "拒绝给， 不给； 抑制； 忍住"
+        ],
+        "usphone": "wɪð'hold",
+        "ukphone": "wɪð'hould"
+    },
+    {
+        "name": "glow",
+        "trans": [
+            "发光；发红，发热；洋溢",
+            "暗淡的光； 容光焕发； 喜悦"
+        ],
+        "usphone": "ɡlo",
+        "ukphone": "glou"
+    },
+    {
+        "name": "lubricant",
+        "trans": [
+            "润滑剂"
+        ],
+        "usphone": "'lubrɪkənt",
+        "ukphone": "'luːbrɪkənt"
+    },
+    {
+        "name": "adventitious",
+        "trans": [
+            "偶然的， 偶发的"
+        ],
+        "usphone": ",ædvɛn'tɪʃəs",
+        "ukphone": "ˌædven'tɪʃəs"
+    },
+    {
+        "name": "fray",
+        "trans": [
+            "磨损，磨破；烦躁，恼火",
+            "争斗"
+        ],
+        "usphone": "fre",
+        "ukphone": "freɪ"
+    },
+    {
+        "name": "subliminal",
+        "trans": [
+            "下意识的， 潜意识的"
+        ],
+        "usphone": ",sʌb'lɪmɪnl",
+        "ukphone": "ˌsʌb'lɪmɪnl"
+    },
+    {
+        "name": "tavern",
+        "trans": [
+            "小旅馆， 客栈； 小酒店"
+        ],
+        "usphone": "'tævɚn",
+        "ukphone": "'tævərn"
+    },
+    {
+        "name": "folkway",
+        "trans": [
+            "社会风俗"
+        ],
+        "usphone": "'fəukwei",
+        "ukphone": "'foukˌweɪ"
+    },
+    {
+        "name": "transcend",
+        "trans": [
+            "超越"
+        ],
+        "usphone": "træn'sɛnd",
+        "ukphone": "træn'send"
+    },
+    {
+        "name": "fable",
+        "trans": [
+            "寓言； 谎言"
+        ],
+        "usphone": "'febl",
+        "ukphone": "'feɪbl"
+    },
+    {
+        "name": "consist",
+        "trans": [
+            "在于， 存在于； 由…组成， 由…构成"
+        ],
+        "usphone": "kən'sɪst",
+        "ukphone": "kən'sɪst"
+    },
+    {
+        "name": "tenement",
+        "trans": [
+            "廉租公寓"
+        ],
+        "usphone": "'tɛnəmənt",
+        "ukphone": "'tenəmənt"
+    },
+    {
+        "name": "crest",
+        "trans": [
+            "达到顶点",
+            "顶峰，顶点；浪尖；羽冠"
+        ],
+        "usphone": "krɛst",
+        "ukphone": "krest"
+    },
+    {
+        "name": "grimly",
+        "trans": [
+            "冷酷地； 严肃地； 坚定地"
+        ],
+        "usphone": "'grɪmlɪ",
+        "ukphone": "'grɪmli"
+    },
+    {
+        "name": "steep",
+        "trans": [
+            "陡的，陡峭的；急剧的；过高的",
+            "浸泡； 沉浸"
+        ],
+        "usphone": "stip",
+        "ukphone": "stiːp"
+    },
+    {
+        "name": "vague",
+        "trans": [
+            "模糊的； 不明确的"
+        ],
+        "usphone": "veɡ",
+        "ukphone": "veɪg"
+    },
+    {
+        "name": "overt",
+        "trans": [
+            "公开的， 非秘密的"
+        ],
+        "usphone": "o'vɝt",
+        "ukphone": "ou'vɜːrt"
+    },
+    {
+        "name": "parachute",
+        "trans": [
+            "跳伞； 空投",
+            "降落伞"
+        ],
+        "usphone": "'pærə'ʃʊt",
+        "ukphone": "'pærəʃuːt"
+    },
+    {
+        "name": "puddle",
+        "trans": [
+            "水坑， 水洼"
+        ],
+        "usphone": "'pʌdl",
+        "ukphone": "'pʌdl"
+    },
+    {
+        "name": "exempt",
+        "trans": [
+            "被免除的，被豁免的",
+            "免除， 豁免"
+        ],
+        "usphone": "ɪg'zɛmpt",
+        "ukphone": "ɪg'zempt"
+    },
+    {
+        "name": "trilogy",
+        "trans": [
+            "三部剧， 三部曲"
+        ],
+        "usphone": "'trɪlədʒi",
+        "ukphone": "'trɪlədʒi"
+    },
+    {
+        "name": "drench",
+        "trans": [
+            "使湿透"
+        ],
+        "usphone": "drɛntʃ",
+        "ukphone": "drentʃ"
+    },
+    {
+        "name": "elapse",
+        "trans": [
+            "消逝， 流逝"
+        ],
+        "usphone": "ɪ'læps",
+        "ukphone": "ɪ'læps"
+    },
+    {
+        "name": "acquiesce",
+        "trans": [
+            "默许， 默认"
+        ],
+        "usphone": ",ækwi'es",
+        "ukphone": "ˌækwi'es"
+    },
+    {
+        "name": "accuse",
+        "trans": [
+            "谴责； 指责， 归咎； 指控， 控告"
+        ],
+        "usphone": "ə'kjuz",
+        "ukphone": "ə'kjuːz"
+    },
+    {
+        "name": "shear",
+        "trans": [
+            "剪； 切断， 剪切"
+        ],
+        "usphone": "ʃɪr",
+        "ukphone": "ʃɪr"
+    },
+    {
+        "name": "extinguish",
+        "trans": [
+            "熄灭， 扑灭； 消灭， 毁灭， 使破灭"
+        ],
+        "usphone": "ɪk'stɪŋɡwɪʃ",
+        "ukphone": "ɪk'stɪŋgwɪʃ"
+    },
+    {
+        "name": "grind",
+        "trans": [
+            "打磨；磨，碾",
+            "磨碎， 碾碎； 苦差事"
+        ],
+        "usphone": "ɡraɪnd",
+        "ukphone": "graɪnd"
+    },
+    {
+        "name": "oppressive",
+        "trans": [
+            "压迫的， 压制的； 令人焦虑的"
+        ],
+        "usphone": "ə'prɛsɪv",
+        "ukphone": "ə'presɪv"
+    },
+    {
+        "name": "harsh",
+        "trans": [
+            "恶劣的， 严酷的； 刺耳的； 粗糙的， 毛糙的"
+        ],
+        "usphone": "hɑrʃ",
+        "ukphone": "hɑːrʃ"
+    },
+    {
+        "name": "gnaw",
+        "trans": [
+            "啃， 咬"
+        ],
+        "usphone": "nɔ",
+        "ukphone": "nɔː"
+    },
+    {
+        "name": "orchid",
+        "trans": [
+            "兰， 兰花"
+        ],
+        "usphone": "'ɔrkɪd",
+        "ukphone": "'ɔːrkɪd"
+    },
+    {
+        "name": "ascertain",
+        "trans": [
+            "弄清， 查明"
+        ],
+        "usphone": "'æsɚ'ten",
+        "ukphone": "ˌæsər'teɪn"
+    },
+    {
+        "name": "canoe",
+        "trans": [
+            "乘独木舟，划独木舟",
+            "独木舟"
+        ],
+        "usphone": "kə'nu",
+        "ukphone": "kə'nuː"
+    },
+    {
+        "name": "insulate",
+        "trans": [
+            "使隔离， 使隔绝"
+        ],
+        "usphone": "ˈɪnsəˌleɪt ; ˈɪnsjʊˌleɪt",
+        "ukphone": "'ɪnsəleɪt"
+    },
+    {
+        "name": "operant",
+        "trans": [
+            "运转中的；生效的；操作性的",
+            "起作用的人"
+        ],
+        "usphone": "'ɑpərənt",
+        "ukphone": "'ɑːpərænt"
+    },
+    {
+        "name": "petition",
+        "trans": [
+            "请愿， 正式请求",
+            "请愿；请愿书；诉状"
+        ],
+        "usphone": "pə'tɪʃən",
+        "ukphone": "pə'tɪʃn"
+    },
+    {
+        "name": "plaster",
+        "trans": [
+            "在…上抹灰泥， 厚厚地涂",
+            "灰浆，灰泥，石膏"
+        ],
+        "usphone": "'plæstɚ",
+        "ukphone": "'plæstər"
+    },
+    {
+        "name": "filament",
+        "trans": [
+            "灯丝； 细丝"
+        ],
+        "usphone": "'fɪləmənt",
+        "ukphone": "'fɪləmənt"
+    },
+    {
+        "name": "likewise",
+        "trans": [
+            "同样； 也"
+        ],
+        "usphone": "'laɪkwaɪz",
+        "ukphone": "'laɪkwaɪz"
+    },
+    {
+        "name": "lust",
+        "trans": [
+            "对…有强烈的欲望",
+            "性欲；强烈的欲望"
+        ],
+        "usphone": "lʌst",
+        "ukphone": "lʌst"
+    },
+    {
+        "name": "apportion",
+        "trans": [
+            "分配； 分派"
+        ],
+        "usphone": "ə'pɔrʃən",
+        "ukphone": "ə'pɔːrʃn"
+    },
+    {
+        "name": "savage",
+        "trans": [
+            "凶残的；野蛮的，未开化的",
+            "野蛮人，未开化的人",
+            "残害； 激烈抨击"
+        ],
+        "usphone": "'sævɪdʒ",
+        "ukphone": "'sævɪdʒ"
+    },
+    {
+        "name": "scent",
+        "trans": [
+            "香味，香气；气味；踪迹，线索；香水",
+            "闻出； 察觉"
+        ],
+        "usphone": "sɛnt",
+        "ukphone": "sent"
+    },
+    {
+        "name": "adjunct",
+        "trans": [
+            "附加物， 附件； 附加语， 修饰语"
+        ],
+        "usphone": "'ædʒʌŋkt",
+        "ukphone": "'ædʒʌŋkt"
+    },
+    {
+        "name": "posthumous",
+        "trans": [
+            "死后的， 身后的"
+        ],
+        "usphone": "'pɑstʃəməs",
+        "ukphone": "'pɑːstʃəməs"
+    },
+    {
+        "name": "assent",
+        "trans": [
+            "同意， 赞成"
+        ],
+        "usphone": "ə'sɛnt",
+        "ukphone": "ə'sent"
+    },
+    {
+        "name": "commemorate",
+        "trans": [
+            "庆祝， 纪念"
+        ],
+        "usphone": "kə'mɛməret",
+        "ukphone": "kə'meməreɪt"
+    },
+    {
+        "name": "leap",
+        "trans": [
+            "跳跃； 急速行动； 骤变； 激增",
+            "跳跃；骤变；激增"
+        ],
+        "usphone": "lip",
+        "ukphone": "liːp"
+    },
+    {
+        "name": "bouquet",
+        "trans": [
+            "花束； 香味， 芬芳"
+        ],
+        "usphone": "bu'ke",
+        "ukphone": "bu'keɪ"
+    },
+    {
+        "name": "nomadic",
+        "trans": [
+            "游牧的； 流浪的"
+        ],
+        "usphone": "nəu'mædik, nɔ-",
+        "ukphone": "nou'mædɪk"
+    },
+    {
+        "name": "nauseous",
+        "trans": [
+            "恶心的； 令人作呕的， 令人厌恶的"
+        ],
+        "usphone": "'nɔʃəs",
+        "ukphone": "'nɔːʃəs"
+    },
+    {
+        "name": "oblivious",
+        "trans": [
+            "遗忘的； 未注意的， 不知不觉的"
+        ],
+        "usphone": "ə'blɪvɪəs",
+        "ukphone": "ə'blɪviəs"
+    }
+]
